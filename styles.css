@@ -1,0 +1,40 @@
+.logo
+{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%; 
+}
+
+.left-header {
+   text-decoration: none;
+}
+
+.right-header {
+   text-decoration: none;
+}
+
+.left-footer, .middle-footer, .right-footer {
+   text-decoration: none;
+}
+
+.search-bar {
+   margin-left: auto;
+   margin-right: 30%;
+   width: 50%;
+
+}
+
+.search-bar-input {
+   width: 400px;
+   height: 30px;
+   border-radius: 10px;
+}
+
+.search-bar-buttons {
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+   padding-top: 8px;
+}
+
